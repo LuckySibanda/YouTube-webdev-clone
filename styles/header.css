@@ -1,11 +1,11 @@
 .header {
   height: 55px;
 
-  display: flex;
+  display: fixed;
   flex-direction: row;
   justify-content: space-between;
 
-  position: fixed;
+  position: staic
   top: 0;
   left: 0;
   right: 0;
